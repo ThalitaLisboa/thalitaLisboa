@@ -11,7 +11,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=)](https://github.com/ThalitaLisboa)
 
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/thalita7603/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](thalita7603)
 
 <!-- ## Habilidades -->
 
