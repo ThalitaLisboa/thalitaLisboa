@@ -3,6 +3,7 @@
 🐞 Software Quality Assurance
 
 🎓 Formada em Gestão Empresarial
+🎓 Pós-Graduanda em Engenharia de Qualidade e Teste de Software
 
 🎬 Amo filmes e séries
 
